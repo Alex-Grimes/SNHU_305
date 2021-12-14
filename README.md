@@ -1,2 +1,12 @@
 # SNHU_305
 Software Security
+
+Once you have submitted one of the artifacts listed above, update the README file in your repository and include your answers to each of the questions below. You could include the questions and write a few sentences in response to each one, or you could write a paragraph or two weaving together all of your answers.
+
+Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+What did you do particularly well in identifying their software security vulnerabilities? Why is it important to code securely? What value does software security add to a company’s overall wellbeing?
+What about the process of working through the vulnerability assessment did you find challenging or helpful?
+How did you approach the need to increase layers of security? What techniques or strategies would you use in the future to assess vulnerabilities and determine mitigation techniques?
+How did you ensure the code and software application were functional and secure? After refactoring code, how did you check to see whether you introduced new vulnerabilities?
+What resources, tools, or coding practices did you employ that you might find helpful in future assignments or tasks?
+Employers sometimes ask for examples of work that you have successfully completed to demonstrate your skills, knowledge, and experience. What from this particular assignment might you want to showcase to a future employer?
